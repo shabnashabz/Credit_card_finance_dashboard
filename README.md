@@ -1,10 +1,12 @@
 # Credit_card_finance_dashboard
 Power BI Dashboard
 
-Overview
+# Overview
+
 This project showcases two comprehensive dashboards that provide insights into credit card transactions and customer details. These dashboards help visualize key performance metrics such as revenue, total interest, usage patterns, and customer demographics, allowing for data-driven decision-making.
 
-Dashboards
+# Dashboards
+
 1. Credit Card Transaction Report
 This dashboard focuses on key metrics related to credit card transactions, such as:
 
